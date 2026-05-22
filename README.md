@@ -10,9 +10,9 @@ Build a traffic analytics and business intelligence (BI) system to analyze traff
 - Implement ETL workflows for data integration and transformation
 - Analyze route-wise traffic density and congestion levels
 - Identify recurring congestion hotspots and peak traffic hours
-- Perform trend analysis for traffic growth patterns
+- Analyze traffic pattern trends across time periods
 - Create interactive dashboards and visualizations using Tableau
-- Compare historical traffic trends for insight validation
+- Comparative traffic analysis across traffic conditions, routes, and time periods
 - Generate recommendations for traffic management and urban planning
 
 ## Technologies Used

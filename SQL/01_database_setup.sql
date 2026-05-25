@@ -1,5 +1,5 @@
--- Create database
-CREATE DATABASE traffic_analytics;
+-- -- Create database
+-- CREATE DATABASE traffic_analytics;
 
 -- Create table
 CREATE TABLE traffic_trips (

@@ -3,7 +3,7 @@
 -- DELIMITER ','
 -- CSV HEADER;
 
--- SELECT COUNT(*) FROM traffic_trips;
+-- -- SELECT COUNT(*) FROM traffic_trips;
 
 SELECT * FROM traffic_trips LIMIT 10
 
